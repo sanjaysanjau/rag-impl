@@ -238,7 +238,7 @@ deactivate
 
 ```bash
 source venv/bin/activate
-python3 -c "
+python3 -c " 
 from dotenv import load_dotenv; import os; load_dotenv()
 from google import genai
 client = genai.Client(api_key=os.getenv('GEMINI_API_KEY'))

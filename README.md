@@ -2,6 +2,7 @@
 
 A RAG (Retrieval-Augmented Generation) application built with FastAPI. Upload PDF documents and chat with their content using Pinecone vector search and Gemini AI.
 
+
 ---
 
 ## Tech Stack
